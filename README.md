@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoldkatzIT
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Bachelors Degree of ICT with Swinburne University 
+- 🌱 I’m currently studying a Bachelors Degree of ICT with Swinburne University 
 - 💞️ I’m looking to collaborate on python programs
 - 📫 How to reach me goldkatzit@outlook.com
 
